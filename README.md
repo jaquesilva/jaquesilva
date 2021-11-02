@@ -32,9 +32,6 @@
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ### Contato
@@ -46,5 +43,8 @@
 <!--  <a href="[link para seu discord]" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
