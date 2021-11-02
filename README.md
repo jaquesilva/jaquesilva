@@ -32,6 +32,9 @@
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### Contato
