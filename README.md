@@ -45,6 +45,76 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 140 Contributions in the Year 2021
+ > 
+> 📦 3.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    20 commits     █████████░░░░░░░░░░░░░░░░   37.04% 
+🌆 Daytime    20 commits     █████████░░░░░░░░░░░░░░░░   37.04% 
+🌃 Evening    12 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Tuesday      7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     28 commits     █████████████░░░░░░░░░░░░   51.85% 
+Friday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bahia
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     1 repo              █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jaquesilva/jaquesilva/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 
 
