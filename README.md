@@ -34,9 +34,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 140 Contributions in the Year 2021
@@ -116,3 +113,6 @@ HTML                     1 repo              ███████████�
 <!--  <a href="[link para seu discord]" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   
 </div>
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
