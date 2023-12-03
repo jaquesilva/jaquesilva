@@ -3,8 +3,8 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo Python</li>
+    <li>- 🔭 Atualmente estudo Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Descomplica Faculdade Digital</a></li>
+    <li>- 🌱 Aprendendo Java, C# e Empreendedorismo</li>
     <li>- 💬 Me pergunte sobre qualquer coisa, adoro conversar!</li>
     <li>- 😄 Pronomes: Ela/She</li>
     <li>- ⚡ Fun fact: Livros</li>
